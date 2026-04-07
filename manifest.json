@@ -1,0 +1,11 @@
+{
+  "id": "johnsidian-bettervim",
+  "name": "Johnsidian Better Vim",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Better vim",
+  "author": "John Whiles",
+  "authorUrl": "https://johnwhiles.com",
+  "fundingUrl": "https://johnwhiles.com",
+  "isDesktopOnly": false
+}
